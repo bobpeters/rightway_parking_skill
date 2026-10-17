@@ -1,0 +1,13 @@
+{
+  "name": "rightway-parking-skill",
+  "version": "1.0.0",
+  "description": "Rightway Parking reservation and quote assistant for AI agents",
+  "keywords": ["gemini", "agent-skill", "mcp", "travel", "parking", "rightway"],
+  "homepage": "https://rightwayparking.com",
+  "license": "MIT",
+  "files": [
+    "SKILL.md",
+    "README.md",
+    "examples/"
+  ]
+}
